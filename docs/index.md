@@ -13,13 +13,12 @@
 
 <a id="sec1"></a>
 ## 絵画
-![picture](https://raw.githubusercontent.com/Shexyin/sxyinnDemo2/main/docs/Picture1.jpg)
+![picture](https://github.com/Shexyin/sxyinnDemo2/blob/main/docs/Picture2.jpg)
 
 
 <a id="sec2"></a>
 ## 写真
-![picture](https://github.com/Shexyin/sxyinnDemo2/blob/main/docs/Picture2.jpg)
-
+![picture](https://raw.githubusercontent.com/Shexyin/sxyinnDemo2/main/docs/Picture1.jpg)
 
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHNWL7MBXoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
