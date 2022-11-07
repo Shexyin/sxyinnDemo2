@@ -6,6 +6,11 @@
 趣味：絵画 喫茶店巡り 写真
 ```
 
+:::note info
+連絡先：xinyi.she.wt@hitachi.com
+:::
+
+
 ## 趣味
 - [絵画](#sec1)
 - [写真](#sec2)
