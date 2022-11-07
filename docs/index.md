@@ -13,7 +13,7 @@
 
 <a id="sec1"></a>
 ## 絵画
-![picture](https://github.com/Shexyin/sxyinnDemo2/blob/main/docs/Picture2.jpg)
+![picture](https://raw.githubusercontent.com/Shexyin/sxyinnDemo2/main/docs/Picture2.jpg)
 
 
 <a id="sec2"></a>
