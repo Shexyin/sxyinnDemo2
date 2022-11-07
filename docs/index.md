@@ -13,12 +13,12 @@
 
 <a id="sec1"></a>
 ## 絵画
-![Miku](https://raw.githubusercontent.com/Shexyin/sxyinnDemo2/main/docs/Hatsune_Miku_Article_Header.png)
+![picture](https://raw.githubusercontent.com/Shexyin/sxyinnDemo2/main/docs/Picture1.jpg)
 
 
 <a id="sec2"></a>
 ## 写真
-
+![picture](https://github.com/Shexyin/sxyinnDemo2/blob/main/docs/Picture2.jpg)
 
 
 ## Video
