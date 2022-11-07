@@ -8,4 +8,4 @@
 
 ## image
 
-![Miku](https://pusheen.com/wp-content/uploads/2022/02/Hatsune_Miku_Article_Header.png)
+![Miku]([https://pusheen.com/wp-content/uploads/2022/02/Hatsune_Miku_Article_Header.png](https://github.com/Shexyin/sxyinnDemo2/blob/main/docs/Hatsune_Miku_Article_Header.png))
